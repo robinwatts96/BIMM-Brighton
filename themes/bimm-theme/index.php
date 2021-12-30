@@ -1,1 +1,7 @@
-This is my custom BIMM theme.
+<?php
+    function myFirstFunction() {
+        echo 2+2;
+    }
+
+    myFirstFunction();
+?>
