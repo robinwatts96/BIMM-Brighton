@@ -1,9 +1,11 @@
 <?php 
 
-    $names = array('Rob', 'Brad', 'John', 'Jane');
+    $names = array('Rob', 'Brad', 'John', 'Jane', 'Andy');
     
-    while() {
-
+    $count = 0;
+    while($count < count($names)) {
+        echo "<li>Hi, my name is $names[$count]</li>";
+        $count++;
     }
 
 ?>
