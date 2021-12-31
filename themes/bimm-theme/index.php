@@ -1,7 +1,10 @@
 <?php 
 
     $names = array('Rob', 'Brad', 'John', 'Jane');
+    
+    while() {
 
+    }
 
 ?>
 
