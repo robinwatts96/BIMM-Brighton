@@ -6,5 +6,3 @@
 
     <body>
         <h1>BIMM Brighton</h1>
-    </body>
-</html>
