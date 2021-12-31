@@ -1,10 +1,8 @@
-<?php
-    function greet ($name, $color) {
-        echo "<p>Hi, my name is $name and my favourite color is $color</p>";
-    }
+<?php 
 
-    greet('Rob', 'Blue');
+    $myName = 'Rob';
+
+
 ?>
 
-<h1><?php bloginfo('name') ?></h1>
-<p><?php bloginfo('description') ?></p>
+<p>Hi, my name is <?php echo $myName ?></p>
