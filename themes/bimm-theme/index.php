@@ -5,7 +5,8 @@
     return $num * 2;
   }
 
-  echo double_me(2);
+  $x = double_me(2);
+  echo $x
 ?>
 
 <div class="page-banner">
