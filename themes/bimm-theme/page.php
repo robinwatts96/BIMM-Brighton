@@ -26,7 +26,7 @@
         </p>
       </div>
        <?php }
-      ?>
+      ?> 
 
 
       <!-- <div class="page-links">
