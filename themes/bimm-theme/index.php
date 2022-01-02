@@ -5,8 +5,12 @@
     return $num * 2;
   }
 
-  $x = double_me(2);
-  echo $x
+  function triple_me($num) {
+    return $num * 3;
+  }
+  
+ echo triple_me(double_me(5));
+
 ?>
 
 <div class="page-banner">
