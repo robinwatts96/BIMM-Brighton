@@ -13,7 +13,7 @@
     <div class="full-width-split group">
       <div class="full-width-split__one">
         <div class="full-width-split__inner">
-          <h2 class="headline headline--small-plus t-center">Upcoming Events</h2>
+          <h2 class="headline headline--small-plus t-center">Upcoming Events</h2> 
 
           <div class="event-summary">
             <a class="event-summary__date t-center" href="#">
