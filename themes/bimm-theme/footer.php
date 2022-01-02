@@ -27,7 +27,7 @@
                         <ul>
                         <li><a href="#">Legal</a></li>
                         <li><a href="<?php echo site_url('/privacy-policy') ?>">Privacy</a></li>
-                        <li><a href="#">Careers</a></li>
+                        <li><a href="#">Careers</a></li> 
                         </ul>
                     </nav>
                     </div>
