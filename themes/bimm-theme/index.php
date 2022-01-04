@@ -17,7 +17,7 @@ get_header();?>
         the_post(); ?>
         <div class="post-item">
           <h2><a href="<?php the_permalink() ?>;"><?php the_title(); ?></a></h2>
-          <div class="meta-box">
+          <div class="metabox">
             <p>Posted by Rob on 13/09/1996 in News</p>
           </div>
           <div class="generic-content">
