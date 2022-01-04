@@ -1,1 +1,4 @@
-this is generic
+<?php
+get_header();
+get_footer();
+?>
